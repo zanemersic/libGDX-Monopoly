@@ -1,0 +1,27 @@
+
+backgrounds.png
+size: 2048, 4096
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+glasshouse-gardens
+  rotate: false
+  xy: 2, 2166
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+lantern-market
+  rotate: false
+  xy: 2, 1084
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+lighthouse-cove
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
