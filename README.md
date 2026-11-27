@@ -6,6 +6,12 @@ A Monopoly-inspired, turn-based property game built with Java and libGDX for des
 
 The desktop and Android launchers are in place. The shared entry point loads the texture atlases, bitmap font, music, sound effects, and particles. The playable board screen and turn rules are still in development.
 
+## Board concept
+
+![Board concept at Lighthouse Cove with four colored pawns on a ring of property and event tiles around two dice](Assets/Previews/board-concept.png)
+
+This example lays out 28 spaces around Lighthouse Cove, with Start in the lower-left corner. Each pawn marks a player’s current space, while a house tile’s background shows who owns it.
+
 ## A turn on the board
 
 The planned turn starts with a dice roll. Move your pawn, then resolve the space where it lands. On an available property, decide whether to pay the price or save your cash. Other spaces can charge a fee, award treasure, or swap two pawns’ positions.
